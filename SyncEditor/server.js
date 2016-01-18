@@ -5,9 +5,7 @@ var io = require('socket.io')(https);
 
  
 sachin tiwari
-
-nishant 
-app.use(express.static(__dirname + '/public')); 
+edewereweefe + '/public')); 
 
 app.get('/', function(req, res){
   res.sendFile(__dirname + '/index.html');

@@ -5,9 +5,7 @@ var io = require('socket.io')(https);
 
  
 sachin tiwari
-edewereweefe + '/public')); 
-
-app.get('/', function(req, res){
+edewereweefe + '/pgffhgfion(req, res){
   res.sendFile(__dirname + '/index.html');
 });
 

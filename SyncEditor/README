@@ -1,0 +1,14 @@
+1)To start server
+
+come in directory SyncEditor 
+then type => node index.js
+
+2) To launch sync-editor in browser
+
+first start server as mentioned in first point if not done,
+then type localhost:3000 in address bar
+
+
+3) For any queries contact,
+nishant.narang51@gmail.com
+	
